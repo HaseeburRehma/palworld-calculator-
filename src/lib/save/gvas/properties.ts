@@ -27,7 +27,7 @@ import type {
   PropertyMap,
   PropertyValue,
 } from "./types";
-import { BinaryReader } from "./reader";
+import type { BinaryReader } from "./reader";
 
 /** Read properties until the "None" terminator. */
 export function readPropertyMap(reader: BinaryReader): PropertyMap {
