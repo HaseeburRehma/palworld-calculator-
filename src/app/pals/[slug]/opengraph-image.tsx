@@ -13,6 +13,8 @@
  * Cached aggressively: these don't change unless the Pal's stats change.
  */
 
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 import { ImageResponse } from "next/og";
 import { allPals, getPalBySlug } from "@/lib/data/pals";
 import { SITE_NAME, SITE_TAGLINE } from "@/lib/seo/constants";
@@ -39,9 +41,19 @@ const ELEMENT_HEX: Record<string, string> = {
 };
 
 export default async function Image({ params }: { params: { slug: string } }) {
+  // Load fonts
+  const interRegular = readFileSync(join(process.cwd(), "public/fonts/Inter-Regular.ttf"));
+  const interBold = readFileSync(join(process.cwd(), "public/fonts/Inter-Bold.ttf"));
+
   const pal = getPalBySlug(params.slug);
   if (!pal) {
-    return new ImageResponse(<DefaultCard />, size);
+    return new ImageResponse(<DefaultCard />, {
+      ...size,
+      fonts: [
+        { name: "Inter", data: interRegular, weight: 400, style: "normal" },
+        { name: "Inter", data: interBold, weight: 700, style: "normal" },
+      ],
+    });
   }
   const primary = pal.elements[0] ?? "Neutral";
   const accent = ELEMENT_HEX[primary] ?? "#9ca3af";
@@ -57,7 +69,7 @@ export default async function Image({ params }: { params: { slug: string } }) {
           background: "linear-gradient(135deg, #0b1d2c 0%, #102536 100%)",
           padding: "48px 64px",
           color: "#e5fbff",
-          fontFamily: "system-ui, sans-serif",
+          fontFamily: "Inter, sans-serif",
         }}
       >
         <div style={{ display: "flex", alignItems: "center", gap: 16, fontSize: 28 }}>
@@ -121,7 +133,13 @@ export default async function Image({ params }: { params: { slug: string } }) {
         </div>
       </div>
     ),
-    size,
+    {
+      ...size,
+      fonts: [
+        { name: "Inter", data: interRegular, weight: 400, style: "normal" },
+        { name: "Inter", data: interBold, weight: 700, style: "normal" },
+      ],
+    },
   );
 }
 
@@ -136,7 +154,7 @@ function DefaultCard() {
         justifyContent: "center",
         background: "#0b1d2c",
         color: "#e5fbff",
-        fontFamily: "system-ui, sans-serif",
+        fontFamily: "Inter, sans-serif",
         fontSize: 64,
       }}
     >
