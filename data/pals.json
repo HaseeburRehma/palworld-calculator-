@@ -1,0 +1,247 @@
+[
+  {
+    "id": "lamball",
+    "paldexNo": 1,
+    "name": "Lamball",
+    "slug": "lamball",
+    "elements": ["Neutral"],
+    "powerValue": 1500,
+    "breedable": true
+  },
+  {
+    "id": "cattiva",
+    "paldexNo": 2,
+    "name": "Cattiva",
+    "slug": "cattiva",
+    "elements": ["Neutral"],
+    "powerValue": 1480,
+    "breedable": true
+  },
+  {
+    "id": "chikipi",
+    "paldexNo": 3,
+    "name": "Chikipi",
+    "slug": "chikipi",
+    "elements": ["Neutral"],
+    "powerValue": 1410,
+    "breedable": true
+  },
+  {
+    "id": "lifmunk",
+    "paldexNo": 4,
+    "name": "Lifmunk",
+    "slug": "lifmunk",
+    "elements": ["Grass"],
+    "powerValue": 1300,
+    "breedable": true
+  },
+  {
+    "id": "foxparks",
+    "paldexNo": 5,
+    "name": "Foxparks",
+    "slug": "foxparks",
+    "elements": ["Fire"],
+    "powerValue": 1700,
+    "breedable": true
+  },
+  {
+    "id": "fuack",
+    "paldexNo": 6,
+    "name": "Fuack",
+    "slug": "fuack",
+    "elements": ["Water"],
+    "powerValue": 1750,
+    "breedable": true
+  },
+  {
+    "id": "sparkit",
+    "paldexNo": 7,
+    "name": "Sparkit",
+    "slug": "sparkit",
+    "elements": ["Electric"],
+    "powerValue": 1860,
+    "breedable": true
+  },
+  {
+    "id": "tanzee",
+    "paldexNo": 8,
+    "name": "Tanzee",
+    "slug": "tanzee",
+    "elements": ["Grass"],
+    "powerValue": 1920,
+    "breedable": true
+  },
+  {
+    "id": "rooby",
+    "paldexNo": 9,
+    "name": "Rooby",
+    "slug": "rooby",
+    "elements": ["Fire"],
+    "powerValue": 2030,
+    "breedable": true
+  },
+  {
+    "id": "pengullet",
+    "paldexNo": 10,
+    "name": "Pengullet",
+    "slug": "pengullet",
+    "elements": ["Water", "Ice"],
+    "powerValue": 2070,
+    "breedable": true
+  },
+  {
+    "id": "penking",
+    "paldexNo": 11,
+    "name": "Penking",
+    "slug": "penking",
+    "elements": ["Water", "Ice"],
+    "powerValue": 2680,
+    "breedable": true
+  },
+  {
+    "id": "jolthog",
+    "paldexNo": 12,
+    "name": "Jolthog",
+    "slug": "jolthog",
+    "elements": ["Electric"],
+    "powerValue": 1750,
+    "breedable": true
+  },
+  {
+    "id": "gumoss",
+    "paldexNo": 13,
+    "name": "Gumoss",
+    "slug": "gumoss",
+    "elements": ["Grass", "Ground"],
+    "powerValue": 1750,
+    "breedable": true
+  },
+  {
+    "id": "vixy",
+    "paldexNo": 14,
+    "name": "Vixy",
+    "slug": "vixy",
+    "elements": ["Neutral"],
+    "powerValue": 1390,
+    "breedable": true
+  },
+  {
+    "id": "hoocrates",
+    "paldexNo": 15,
+    "name": "Hoocrates",
+    "slug": "hoocrates",
+    "elements": ["Dark"],
+    "powerValue": 1810,
+    "breedable": true
+  },
+  {
+    "id": "teafant",
+    "paldexNo": 16,
+    "name": "Teafant",
+    "slug": "teafant",
+    "elements": ["Water"],
+    "powerValue": 1450,
+    "breedable": true
+  },
+  {
+    "id": "depresso",
+    "paldexNo": 17,
+    "name": "Depresso",
+    "slug": "depresso",
+    "elements": ["Dark"],
+    "powerValue": 1900,
+    "breedable": true
+  },
+  {
+    "id": "cremis",
+    "paldexNo": 18,
+    "name": "Cremis",
+    "slug": "cremis",
+    "elements": ["Neutral"],
+    "powerValue": 1410,
+    "breedable": true
+  },
+  {
+    "id": "daedream",
+    "paldexNo": 19,
+    "name": "Daedream",
+    "slug": "daedream",
+    "elements": ["Dark"],
+    "powerValue": 1830,
+    "breedable": true
+  },
+  {
+    "id": "rushoar",
+    "paldexNo": 20,
+    "name": "Rushoar",
+    "slug": "rushoar",
+    "elements": ["Ground"],
+    "powerValue": 1990,
+    "breedable": true
+  },
+  {
+    "id": "nox",
+    "paldexNo": 21,
+    "name": "Nox",
+    "slug": "nox",
+    "elements": ["Dark"],
+    "powerValue": 1890,
+    "breedable": true
+  },
+  {
+    "id": "fuddler",
+    "paldexNo": 22,
+    "name": "Fuddler",
+    "slug": "fuddler",
+    "elements": ["Ground"],
+    "powerValue": 1480,
+    "breedable": true
+  },
+  {
+    "id": "killamari",
+    "paldexNo": 23,
+    "name": "Killamari",
+    "slug": "killamari",
+    "elements": ["Dark"],
+    "powerValue": 1990,
+    "breedable": true
+  },
+  {
+    "id": "mau",
+    "paldexNo": 24,
+    "name": "Mau",
+    "slug": "mau",
+    "elements": ["Dark"],
+    "powerValue": 1410,
+    "breedable": true
+  },
+  {
+    "id": "celaray",
+    "paldexNo": 25,
+    "name": "Celaray",
+    "slug": "celaray",
+    "elements": ["Water"],
+    "powerValue": 2400,
+    "breedable": true
+  },
+  {
+    "id": "mau-cryst",
+    "paldexNo": 26,
+    "name": "Mau Cryst",
+    "slug": "mau-cryst",
+    "elements": ["Dark", "Ice"],
+    "powerValue": 1450,
+    "breedable": false,
+    "breedOnly": true
+  },
+  {
+    "id": "jolthog-cryst",
+    "paldexNo": 27,
+    "name": "Jolthog Cryst",
+    "slug": "jolthog-cryst",
+    "elements": ["Ice"],
+    "powerValue": 1780,
+    "breedable": false,
+    "breedOnly": true
+  }
+]

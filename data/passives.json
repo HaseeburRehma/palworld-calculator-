@@ -1,0 +1,86 @@
+[
+  {
+    "id": "swift",
+    "name": "Swift",
+    "tier": "positive",
+    "rank": 2,
+    "effect": "Increases movement speed by 30%."
+  },
+  {
+    "id": "runner",
+    "name": "Runner",
+    "tier": "positive",
+    "rank": 1,
+    "effect": "Increases movement speed by 15%."
+  },
+  {
+    "id": "nimble",
+    "name": "Nimble",
+    "tier": "positive",
+    "rank": 1,
+    "effect": "Increases movement speed by 10%."
+  },
+  {
+    "id": "lucky",
+    "name": "Lucky",
+    "tier": "positive",
+    "rank": 2,
+    "effect": "Increases work speed by 15% and attack by 15%."
+  },
+  {
+    "id": "ferocious",
+    "name": "Ferocious",
+    "tier": "positive",
+    "rank": 2,
+    "effect": "Increases attack by 20%."
+  },
+  {
+    "id": "musclehead",
+    "name": "Musclehead",
+    "tier": "positive",
+    "rank": 3,
+    "effect": "Increases attack by 30% but decreases work speed by 50%."
+  },
+  {
+    "id": "artisan",
+    "name": "Artisan",
+    "tier": "positive",
+    "rank": 3,
+    "effect": "Increases work speed by 50%."
+  },
+  {
+    "id": "serious",
+    "name": "Serious",
+    "tier": "positive",
+    "rank": 1,
+    "effect": "Increases work speed by 15%."
+  },
+  {
+    "id": "diet-lover",
+    "name": "Diet Lover",
+    "tier": "neutral",
+    "rank": 1,
+    "effect": "Hunger drains 15% slower."
+  },
+  {
+    "id": "glutton",
+    "name": "Glutton",
+    "tier": "negative",
+    "rank": 1,
+    "effect": "Hunger drains 10% faster."
+  },
+  {
+    "id": "clumsy",
+    "name": "Clumsy",
+    "tier": "negative",
+    "rank": 1,
+    "effect": "Decreases work speed by 10%."
+  },
+  {
+    "id": "coward",
+    "name": "Coward",
+    "tier": "negative",
+    "rank": 1,
+    "effect": "Decreases attack by 10%."
+  }
+]

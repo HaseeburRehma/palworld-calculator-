@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 255 255 255;
+  --foreground: 17 24 39;
+  --muted: 107 114 128;
+  --border: 229 231 235;
+  --card: 249 250 251;
+  --ring: 99 102 241;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: 17 24 39;
+    --foreground: 243 244 246;
+    --muted: 156 163 175;
+    --border: 55 65 81;
+    --card: 31 41 55;
+    --ring: 129 140 248;
+  }
+}
+
+html,
+body {
+  background: rgb(var(--background));
+  color: rgb(var(--foreground));
+}
+
+body {
+  font-feature-settings: "ss01", "cv01";
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Visible focus ring for keyboard users */
+:focus-visible {
+  outline: 2px solid rgb(var(--ring));
+  outline-offset: 2px;
+}

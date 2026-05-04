@@ -1,0 +1,1568 @@
+{
+  "lamball": [
+    {
+      "parentA": "cattiva",
+      "parentB": "foxparks"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "foxparks"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "fuack"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "cattiva"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "foxparks"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "lamball"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "foxparks"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "fuack"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "sparkit"
+    },
+    {
+      "parentA": "mau",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "jolthog-cryst"
+    }
+  ],
+  "teafant": [
+    {
+      "parentA": "cattiva",
+      "parentB": "chikipi"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "fuddler",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "chikipi"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "fuddler"
+    }
+  ],
+  "chikipi": [
+    {
+      "parentA": "chikipi",
+      "parentB": "chikipi"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "lifmunk"
+    },
+    {
+      "parentA": "mau",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "teafant"
+    }
+  ],
+  "foxparks": [
+    {
+      "parentA": "cattiva",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "fuack"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "sparkit"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "tanzee"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "rooby"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "sparkit"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "tanzee"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "daedream",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "daedream",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "daedream",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "foxparks"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "fuack"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "fuddler",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "killamari",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "killamari",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "fuack"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "sparkit"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "tanzee"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "rooby"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "tanzee"
+    },
+    {
+      "parentA": "mau-cryst",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "nox",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "nox",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "nox",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "rushoar",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "rushoar",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "rushoar"
+    }
+  ],
+  "fuack": [
+    {
+      "parentA": "cattiva",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "rooby"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "sparkit"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "fuack"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "fuddler",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "rooby"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "rushoar",
+      "parentB": "fuddler"
+    }
+  ],
+  "hoocrates": [
+    {
+      "parentA": "daedream",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "tanzee"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "sparkit"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "jolthog-cryst"
+    }
+  ],
+  "pengullet": [
+    {
+      "parentA": "cattiva",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "celaray",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "daedream",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "killamari",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "nox",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "rushoar",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "celaray"
+    }
+  ],
+  "cattiva": [
+    {
+      "parentA": "cattiva",
+      "parentB": "cattiva"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "cattiva",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "fuddler",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "fuddler"
+    }
+  ],
+  "tanzee": [
+    {
+      "parentA": "cattiva",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "celaray",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "daedream",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "daedream",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "fuddler",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "lamball",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "nox",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "rushoar",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "rooby"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "tanzee"
+    },
+    {
+      "parentA": "teafant",
+      "parentB": "celaray"
+    }
+  ],
+  "vixy": [
+    {
+      "parentA": "cattiva",
+      "parentB": "lifmunk"
+    },
+    {
+      "parentA": "chikipi",
+      "parentB": "lifmunk"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "fuddler"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "teafant"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "vixy"
+    }
+  ],
+  "rooby": [
+    {
+      "parentA": "chikipi",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "cremis"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "mau"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "vixy"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "rooby"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "rushoar"
+    }
+  ],
+  "depresso": [
+    {
+      "parentA": "chikipi",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "cremis",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "mau",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "vixy",
+      "parentB": "celaray"
+    }
+  ],
+  "lifmunk": [
+    {
+      "parentA": "lifmunk",
+      "parentB": "lifmunk"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "vixy"
+    }
+  ],
+  "rushoar": [
+    {
+      "parentA": "lifmunk",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "rushoar",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "rushoar",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "rooby"
+    }
+  ],
+  "sparkit": [
+    {
+      "parentA": "daedream",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "rooby"
+    },
+    {
+      "parentA": "foxparks",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "hoocrates",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "lifmunk",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "sparkit"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "jolthog-cryst"
+    }
+  ],
+  "nox": [
+    {
+      "parentA": "foxparks",
+      "parentB": "pengullet"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "rooby"
+    },
+    {
+      "parentA": "killamari",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "nox",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "jolthog"
+    },
+    {
+      "parentA": "rushoar",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "tanzee"
+    }
+  ],
+  "daedream": [
+    {
+      "parentA": "daedream",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "depresso",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "fuack",
+      "parentB": "tanzee"
+    },
+    {
+      "parentA": "gumoss",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "jolthog",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "nox",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "gumoss"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "jolthog"
+    }
+  ],
+  "celaray": [
+    {
+      "parentA": "celaray",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "daedream"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "depresso"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "hoocrates"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "killamari"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "nox"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "rushoar"
+    },
+    {
+      "parentA": "rooby",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "sparkit",
+      "parentB": "penking"
+    },
+    {
+      "parentA": "tanzee",
+      "parentB": "penking"
+    }
+  ],
+  "jolthog-cryst": [
+    {
+      "parentA": "jolthog-cryst",
+      "parentB": "jolthog-cryst"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "jolthog"
+    }
+  ],
+  "mau-cryst": [
+    {
+      "parentA": "mau-cryst",
+      "parentB": "mau-cryst"
+    },
+    {
+      "parentA": "pengullet",
+      "parentB": "mau"
+    }
+  ],
+  "penking": [
+    {
+      "parentA": "penking",
+      "parentB": "celaray"
+    },
+    {
+      "parentA": "penking",
+      "parentB": "penking"
+    }
+  ],
+  "jolthog": [
+    {
+      "parentA": "jolthog",
+      "parentB": "jolthog"
+    }
+  ],
+  "gumoss": [
+    {
+      "parentA": "gumoss",
+      "parentB": "gumoss"
+    }
+  ],
+  "cremis": [
+    {
+      "parentA": "cremis",
+      "parentB": "cremis"
+    }
+  ],
+  "fuddler": [
+    {
+      "parentA": "fuddler",
+      "parentB": "fuddler"
+    }
+  ],
+  "killamari": [
+    {
+      "parentA": "killamari",
+      "parentB": "killamari"
+    }
+  ],
+  "mau": [
+    {
+      "parentA": "mau",
+      "parentB": "mau"
+    }
+  ]
+}

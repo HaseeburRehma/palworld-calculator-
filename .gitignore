@@ -4,6 +4,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -40,12 +41,15 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.pnp
+.pnp.js
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
 # TypeScript cache
 *.tsbuildinfo
+next-env.d.ts
 
 # Optional npm cache directory
 .npm
@@ -67,6 +71,10 @@ web_modules/
 
 # dotenv environment variable files
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 .env.*
 !.env.example
 
@@ -77,10 +85,11 @@ web_modules/
 # Next.js build output
 .next
 out
+build
+dist
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 .output
 
 # Gatsby files
@@ -141,3 +150,12 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# misc
+.DS_Store
+*.pem
+.idea
+.vscode
+
+# scraper cache (do not commit fetched HTML)
+.cache/

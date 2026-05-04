@@ -1,0 +1,35 @@
+---
+title: "How Palworld breeding actually works"
+description: "A plain-English walkthrough of the power-value formula, special parent pairs, and how the calculator applies both to predict the child of any pairing."
+publishedAt: "2026-05-04"
+updatedAt: "2026-05-04"
+author: "Palworld Breeding Calculator"
+tags: [breeding, fundamentals]
+featured: true
+---
+
+Palworld breeding looks complicated until you internalize the two rules the game actually uses. Everything else — the calculator, the planner, the egg counts — is consequence.
+
+## Rule 1: Special pairs come first
+
+There's a small lookup table inside the game that maps specific parent pairs to specific children. If you breed Mau with Pengullet, you always get Mau Cryst, regardless of any other math. The pair is symmetric — Pengullet × Mau works the same. The full table lives in `data/combos.json`; the calculator checks it before falling through to the next rule.
+
+## Rule 2: Power-value math
+
+If no special pair matches, the game computes a **target power value**:
+
+```
+target = floor((parentA.powerValue + parentB.powerValue + 1) / 2)
+```
+
+Then it picks the *breedable* Pal whose power value is closest to that target. Variants and special-combo-only Pals are excluded from the candidate pool.
+
+## Why the calculator gives you the same answer the game does
+
+Both rules are deterministic. The calculator runs them on the bundled Pal table and always lands on the same child the game would. If you ever spot a discrepancy, that's a data issue (a missing combo or a wrong power value), not a math issue — open a bug.
+
+## Where to go next
+
+- The [Plan a Breed](/plan) page reverses this: pick a target Pal and see every parent pair that produces it, ranked by obtainability.
+- The [Roster](/roster) page lets you track the Pals you actually own; the planner can then find multi-step chains using only Pals from your collection.
+- The [FAQ](/faq) covers the most common follow-up questions.

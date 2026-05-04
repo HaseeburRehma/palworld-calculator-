@@ -1,0 +1,4 @@
+{
+  "_comment": "Manual narrative-paragraph overrides for high-traffic Pal pages. Key = Pal.id (slug). Value = the full paragraph (≥80 words). Empty/missing = use the generator. Hand-write the top 30 over time.",
+  "_progress": "Manual descriptions written: 0 / target 30"
+}
